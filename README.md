@@ -4,12 +4,14 @@
 - 配置 nodejs 环境变量（可选）；
 - 安装 git;
 - 创建项目文件夹；
-- 添加 package.json文件；
+- 添加 package.json文件；  
+
 ## Vue 2.0 简介与组件化开发；
 ## 使用 Vuex 框架，管理数据交互；
 ## 使用Vue resource 处理接口请求；
 ## 整合 Vue，vuex，vue router 开发员工用车实例。
-要点：  
+
+**要点**：  
 1. Nodejs 平台，安装所有依赖库；  
 2. 使用ES6语法开发，Babel 工具做转换;  
 3. 基于webpack的前端工程化；  
