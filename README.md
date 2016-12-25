@@ -6,7 +6,7 @@
 - 创建项目文件夹；
 - 添加 package.json文件；
 - 添加 .babelrc 文件，支持ES6;
-
+- 添加 .gitignore  忽略文件；
 ## Vue 2.0 简介与组件化开发；
 ## 使用 Vuex 框架，管理数据交互；
 ## 使用Vue resource 处理接口请求；
